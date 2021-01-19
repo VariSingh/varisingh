@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varinder Singh</h1>
 <h3 align="center">I love to build new things</h3>
 
-- <h3 align="center">You can know more about me on [https://varisingh.com](https://varisingh.com)</h3> 
+- You can know more about me on [https://varisingh.com](https://varisingh.com)
 
 - 📫 How to reach me **hello@varisingh.com**
 
