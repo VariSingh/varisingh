@@ -11,7 +11,6 @@
 <p align="center">
 <a href="https://twitter.com/varisin90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="varisin90" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/varisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="varisingh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/varisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="varisingh" height="30" width="40" /></a>
 <a href="https://medium.com/@varisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@varisingh" height="30" width="40" /></a>
 </p>
 
